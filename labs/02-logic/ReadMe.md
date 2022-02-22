@@ -233,6 +233,9 @@ When you finish working, always synchronize the contents of your working folder 
 
 2. Tomas Fryza. [Example of 2-bit binary comparator using the when/else assignments](https://www.edaplayground.com/x/5uu3)
 
-### personal links:
+## personal links:
 <!--
 https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/code/karnaughmap/ 
+https://github.com/JiriKlimes99/Digital_Electronics_1/blob/main/Labs/02-logic/README.md
+
+
