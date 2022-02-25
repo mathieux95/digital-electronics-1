@@ -3,9 +3,9 @@
 Welcome to my Public Github repository aimed primary to submit and receive assignments 
 
 #### Lab 1: 
-Introduction to Git and VHDL
+Introduction to Git and VHDL (https://github.com/mathieux95/digital-electronics-1/tree/main/labs/01-gates)
 #### Lab 2: 
-Combinational logic
+Combinational logic (https://github.com/mathieux95/digital-electronics-1/tree/main/labs/02-logic)
 #### Lab 3: 
 Introduction to Vivado
 #### Lab 4: 
