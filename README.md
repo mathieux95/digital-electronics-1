@@ -7,7 +7,7 @@ Welcome to my Public Github repository aimed primary to submit and receive assig
 - *Lab 2* [Combinational logic](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/02-logic)
 
 - *Lab 3*
-Introduction to Vivado
+[Introduction to Vivado](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/03-vivado) 
 - *Lab 4*
 Binary adder
 - *Lab 4*
