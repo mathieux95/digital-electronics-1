@@ -170,7 +170,7 @@ VHDL-93 and later offers two methods of instantiation: **direct instantiation** 
         end architecture Behavioral;
         ```
 
-        ![Top level](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/04-segment/images/top_schema_hex_7seg.png)
+        ![Top level](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/04-segment/images/top_schema_hex_7seg_2.png)
 
    4. Create a new [constraints XDC](https://raw.githubusercontent.com/Digilent/digilent-xdc/master/Nexys-A7-50T-Master.xdc) file: `nexys-a7-50t` and uncomment used pins according to the `top` entity.
    5. Compile the project and download the generated bitstream `YOUR_FOLDER/display/display.runs/impl_1/top.bit` into the FPGA chip.
