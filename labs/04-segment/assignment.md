@@ -37,7 +37,7 @@
         s_hex <= "0111"; wait for 70 ns;
         assert (s_seg = "0001111")
         report "Input combination 0001111 FAILED" severity error;      
-        -- Eight test case        
+        -- Eighth test case        
         s_hex <= "1000"; wait for 70 ns;
         assert (s_seg = "0000000")
         report "Input combination 0000000 FAILED" severity error;    
