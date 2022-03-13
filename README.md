@@ -9,9 +9,9 @@ Welcome to my Public Github repository aimed primarily to submit and receive ass
 - *Lab 3*
 [Introduction to Vivado](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/03-vivado) 
 - *Lab 4*
-[Binary adder](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/04-segment)
+[Binary adder]
 - *Lab 4*
-Seven-segment display decoder
+[Seven-segment display decoder](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/04-segment)
 - *Lab 5*
 Latches and Flip-flops
 - *Lab 6*
