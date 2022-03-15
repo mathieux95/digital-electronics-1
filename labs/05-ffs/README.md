@@ -38,8 +38,8 @@ In this laboratory exercise, you will study the differences between a statically
   ![Characteristic equations](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/05-ffs/images/JK.jpg) <br />
   ![Characteristic equations](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/05-ffs/images/T.jpg) <br />
   
- 
-    **D-type FF**
+     
+   **D-type**
    | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
    | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | `q(n+1)` has the same level as `d` |
