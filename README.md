@@ -1,6 +1,6 @@
 # Digitálna elektronika 1 (BPC-DE1)
 
-Welcome to my Public Github repository aimed primarily to submit and receive assignments 
+Public Github repository aimed primarily to submit and receive assignments from Digital Electronics 1 (BPC-DE1) course - Summer semester 2022
 
 - *Lab 1* [Introduction to Git and VHDL](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/01-gates)
 
