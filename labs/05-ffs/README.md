@@ -34,10 +34,11 @@ In this laboratory exercise, you will study the differences between a statically
 
 1. Write characteristic equations and complete truth tables for D, JK, T flip-flops where `q(n)` represents main output value before the clock edge and `q(n+1)` represents output value after the clock edge.
 
-  ![Characteristic equations](labs/05-ffs/images/D.jpg)
-  ![Characteristic equations](labs/05-ffs/images/JK.jpg)
+  ![Characteristic equations](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/05-ffs/images/D.jpg)
+  ![Characteristic equations](lhttps://github.com/mathieux95/digital-electronics-1/blob/main/labs/05-ffs/images/JK.jpg)
   ![Characteristic equations](labs/05-ffs/images/T.jpg)
-
+  
+ 
     **D-type FF**
    | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
