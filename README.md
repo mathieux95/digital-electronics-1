@@ -12,7 +12,7 @@ Welcome to my Public Github repository aimed primarily to submit and receive ass
 - *Lab 4*
 [Seven-segment display decoder](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/04-segment)
 - *Lab 5*
-Latches and Flip-flops
+[Latches and Flip-flops](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/05-ffs) 
 - *Lab 6*
 Binary counter
 - *Lab 7*
