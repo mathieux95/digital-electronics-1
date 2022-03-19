@@ -14,7 +14,7 @@ Public Github repository aimed primarily to submit and receive assignments from 
 - *Lab 5*
 [Latches and Flip-flops](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/05-ffs) 
 - *Lab 6*
-Binary counter
+[Binary counter](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/06-counter)
 - *Lab 7*
 Driver for multiple seven-segment displays
 - *Lab 7*
