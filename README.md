@@ -1,4 +1,4 @@
-# Digitálna elektronika 1 (BPC-DE1)
+# Digital Electronics 1 (BPC-DE1)
 
 Public Github repository aimed primarily to submit and receive VHDL lab exercises for bachelor course Digital Electronics 1 at Brno University of Technology, Czechia. Digital Electronics 1 (BPC-DE1) course - Summer semester 2022
 
