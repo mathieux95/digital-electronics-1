@@ -43,7 +43,18 @@ The Nexys A7 board provides five push buttons for user applications.
    ![clock period](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/freq_final.png)
    &nbsp;
 
-   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod_final.png)
+   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod(2ms).png)
+   
+   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod(4ms).png)
+   
+   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod(10ms).png)
+   
+   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod(250ms).png)
+   
+   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod(500ms).png)
+   
+   ![number of periods](https://github.com/mathieux95/digital-electronics-1/blob/main/labs/06-counter/images/clkperiod(1s).png)
+   
    &nbsp;
    <!--
    https://editor.codecogs.com/
