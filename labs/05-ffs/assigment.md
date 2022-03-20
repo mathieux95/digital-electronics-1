@@ -6,13 +6,13 @@
 
 ```vhdl
 architecture Behavioral of t_ff_rst is
-    -- It must use this local signal instead of output ports
-    -- because "out" ports cannot be read within the architecture
+    -- Local signal must be used instead of output ports
+    -- "out" ports can not be read within the architecture
     signal s_q : std_logic;
 begin
     --------------------------------------------------------
     -- p_t_ff_rst:
-    -- T type flip-flop with a high-active synchro reset,
+    -- T type flip-flop with high-active synchro reset,
     -- rising-edge clk.
     -- q(n+1) = t./q(n) + /t.q(n)
     -- q(n+1) =  q(n) if t = 0 (no change)
@@ -33,7 +33,7 @@ begin
         end if;
     end process p_t_ff_rst;
 
-    -- Output ports are permanently connected to local signal
+    -- Output ports permanently connected to local signal
     q     <= s_q;
     q_bar <= not s_q;
 end architecture Behavioral;
