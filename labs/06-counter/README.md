@@ -280,5 +280,7 @@ When you finish working, always synchronize the contents of your working folder 
 
 5. Digilent. [General .xdc file for the Nexys A7-50T](https://github.com/Digilent/digilent-xdc/blob/master/Nexys-A7-50T-Master.xdc)
 _____________________________________________
-personal links
+
+#### personal links:
+<!--
 https://github.com/Mefitek/digital-electronics-1/blob/main/labs/06-counter/ukol_6.md
