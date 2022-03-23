@@ -1,5 +1,5 @@
-  # Lab 6: YOUR_FIRSTNAME LASTNAME
-
+  # Lab 6: Matej Gradoš
+  
 ### Bidirectional counter
 
 1. Listing of VHDL code of the completed process `p_cnt_up_down`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
