@@ -16,7 +16,7 @@ Public Github repository aimed primarily to submit and receive VHDL lab exercise
 - *Lab 6*
 [Binary counter](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/06-counter)
 - *Lab 7*
-Driver for multiple seven-segment displays
+[Driver for multiple seven-segment displays](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/07-display_driver)
 - *Lab 7*
 Stopwatch
 - *Lab 8*
