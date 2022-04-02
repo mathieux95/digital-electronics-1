@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Member 1 (responsible for xxx)
-* Member 2 (responsible for xxx)
-* Member 3 (responsible for xxx)
-* ...
+* Matej Gradoš (ID:230551)(responsible for xxx)
+* Patrik Horčička (ID: 230558)(responsible for xxx)
+* Jan Pavlačka (ID: 209453)(responsible for xxx)
+* David Carboch (ID: 221654) (responsible for xxx)
 
 ### Table of contents
 
