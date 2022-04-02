@@ -20,3 +20,6 @@ Public Github repository aimed primarily to submit and receive VHDL lab exercise
 - *Lab 8*
 [Traffic light controller](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/08-traffic_lights)
 
+______________________________________________
+
+### [*Final project*](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/project)
