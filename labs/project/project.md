@@ -4,7 +4,7 @@
 
 * Matej Gradoš (ID:230551) (responsible for xxx)
 * Patrik Horčička (ID: 230558) (responsible for xxx)
-* Jan Pavlačka (ID: 209453) (responsible for xxx)
+* Adam Ondrejka (ID: 216915) (responsible for xxx)
 * David Carboch (ID: 221654) (responsible for xxx)
 
 ### Table of contents
