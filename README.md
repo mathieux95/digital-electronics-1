@@ -22,4 +22,4 @@ Public Github repository aimed primarily to submit and receive VHDL lab exercise
 
 ______________________________________________
 
-### [*Final project*](https://github.com/mathieux95/digital-electronics-1/tree/main/labs/project)
+### [*Final project*](https://github.com/mathieux95/digital-electronics-1-MorseCodeReceiver)
